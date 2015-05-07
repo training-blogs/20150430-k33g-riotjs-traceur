@@ -2,6 +2,7 @@
   "name": "riotjs-traceur",
   "version": "0.0.0",
   "dependencies": {
-    "riot": "~2.0.15"
+    "riot": "~2.0.15",
+    "traceur": "~0.0.89"
   }
 }
