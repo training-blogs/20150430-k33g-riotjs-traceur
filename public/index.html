@@ -5,6 +5,18 @@
         <title></title>
     </head>
     <body>
+        <yo-bob></yo-bob>
 
+        <!-- traceur -->
+        <script src="js/bower_components/traceur/traceur.min.js"></script>
+
+        <!-- riot -->
+        <script src="js/bower_components/riot/riot.min.js"></script>
+
+        <script>
+            System.import('main').catch(function(e) {
+                console.error(e);
+            });
+        </script>
     </body>
 </html>
