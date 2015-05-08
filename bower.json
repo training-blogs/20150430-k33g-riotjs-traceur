@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "dependencies": {
     "riot": "~2.0.15",
-    "traceur": "~0.0.89"
+    "traceur": "~0.0.89",
+    "es6-module-loader": "~0.16.6"
   }
 }
